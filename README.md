@@ -1,4 +1,4 @@
-<b>Hi there, I'm Aarchy Parekh! 👋</b>
+<h2><b>Hi there, I'm Aarchy Parekh! 👋</b></h2>
 <br/>
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.
 
