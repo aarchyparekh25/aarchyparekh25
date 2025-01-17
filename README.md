@@ -1,8 +1,8 @@
 <h1><b>Hi there, I'm Aarchy Parekh! 👋</b></h1>
 <br/>
-<b></b>Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.
+<b>Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.</b>
 
-🚀 About Me
+<h3>🚀 About Me</h3>
 <br/>
 🌱 Learning Next.js with TypeScript and mastering modern web development practices.
 <br/>
