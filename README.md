@@ -2,8 +2,8 @@
 <br/>
 <b>Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.</b>
 
-<h3>🚀 About Me</h3>
-<br/>
+<h2>🚀 About Me</h2>
+
 🌱 Learning Next.js with TypeScript and mastering modern web development practices.
 <br/>
 ⚙️ Tech stack: React, Node.js, Express, MongoDB, Tailwind CSS, TypeScript.
