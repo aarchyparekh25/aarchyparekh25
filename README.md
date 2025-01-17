@@ -1,6 +1,6 @@
-<h2><b>Hi there, I'm Aarchy Parekh! 👋</b></h2>
+<h1><b>Hi there, I'm Aarchy Parekh! 👋</b></h1>
 <br/>
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.
+<b></b>Welcome to my GitHub profile! I'm a passionate developer constantly learning and building exciting projects.
 
 🚀 About Me
 <br/>
