@@ -6,6 +6,6 @@
 
 🌱 Learning Next.js with TypeScript and mastering modern web development practices.
 <br/>
-⚙️ Tech stack: React, Node.js, Express, MongoDB, Tailwind CSS, TypeScript.
+⚙️ Tech stack: React, Node.js, Express, MongoDB, Tailwind CSS, TypeScript,Next.js.
 <br/>
 💡 Exploring the intersection of technology and community impact through projects like volunteer networks and wellness platforms.
