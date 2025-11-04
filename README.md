@@ -96,6 +96,14 @@
 
 ---
 
+### 🐙 GitHub Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" title="Pull Shark — Merged multiple pull requests" />
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
